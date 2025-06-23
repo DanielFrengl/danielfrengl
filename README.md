@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">Ambitious student of computer science, working on his programming and web development skills.</h3>
 
-- 🔭 I’m currently working on **Polysouls Wiki**
+- 🔭 I’m currently working on **Polysouls Wiki**, **Co-founded website designing company Wrapujto.cz**
 
 - 🌱 I’m currently learning **React, Next.js, Typescript, TailwindCSS**
 
